@@ -14,13 +14,19 @@ Committee Policy Actions
 
 ## Minutes Summary Prompts
 ```
-Summarize the attached minutes of the Federal Open Market Committe meeting (found after the "==========" marker) in the following sections:
+Read the attached minutes of the Federal Open Market Committee meeting (beginning after the "==========" marker) and answer the following questions:
 
-1. What is the date of the meeting?
-2. In objective terms, how did the economy perform in the intermeeting period? Discuss developments in GDP, inflation, consumer spending, labor market conditions, and housing market conditions.
-3. In objective terms, how did the financial markets perform in the intermeeting period? Discuss developments in the stock market, short term and long term interest rates, and market participants' expectations of monetary policy.
-4. What are the Committee's views on the current economic conditions? And what is the Committee's economic outlook?
-5. What are the Committee's policy actions in this meeting? Specifically, what is the target range of the federal funds rate decided by the Committee in this meeting? And why does the Committee believe it is appropriate?
+What is the date of the meeting?
+
+Describe developments in the economy during the intermeeting period. Cite GDP, CPI, PCE, consumer spending, unemployment, labor market, housing market and other economic indicators.
+
+Describe developments in the financial markets during the intermeeting period, including the stock market, short-term and long-term interest rates, credit conditions, market participants’ expectations of monetary policy, and other financial developments.
+
+What is the Committee's economic outlook? Cite all projections of economic indicators given by the meeting participants.
+
+What are the primary risks to the economy that the Committee is concerned about in this meeting? And how do these risks influence the trajectory of the monetary policy going forward?
+
+What are the Committee's policy actions in this meeting? Cite the target range of the federal funds rate decided by the Committee. What is the reasoning behind the policy actions?
 
 ==========
 
